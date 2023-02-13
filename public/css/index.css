@@ -1,0 +1,12 @@
+body{
+    background-color:cornflowerblue;
+}
+.nav-item{
+  margin: 100px;
+}
+.nav{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    
+}
